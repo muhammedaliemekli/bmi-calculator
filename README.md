@@ -4,7 +4,7 @@ Bu proje Ruby ile yazılmış basit bir BMI (Vücut Kitle Endeksi) hesaplayıcı
 
 Çalıştırmak için:
 
-ruby bmi.rb
+ruby main.rb
 
 Özellikler:
 - Boy ve kilo alır
